@@ -1,0 +1,9 @@
+{
+  "language": "java",
+  "pythonInterpreter": "",
+  "executable": "",
+  "sourceCode": "",
+  "javaPath": "",
+  "buildJARPath": "C:\\Users\\Administrator\\Desktop\\CodeCraft-2021(1)\\bin\\CodeCraft-2021.jar",
+  "ioData": ["./data/training-1.txt","./data/training-2.txt"]
+}
